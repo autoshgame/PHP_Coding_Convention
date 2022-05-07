@@ -32,3 +32,20 @@ Quy tắc code trong dự án php
 >
 >
 >```
+
+
+- Quy tắc căn lè, thụt lề, vvv
+>``` 
+>
+>
+>```
+
+
+- Quy tắc đặt tên thư mục phần làm
+>``` 
+>
+>
+>```
+
+
+<h4>Mọi người chú ý để thực hiện, tránh việc conflit khi nhập code</h4>

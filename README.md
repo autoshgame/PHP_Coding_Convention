@@ -29,22 +29,25 @@ Quy tắc code trong dự án php
 
 - Quy tắc viết vòng for, while
 >``` 
->
->
+> for ($i = 0; $i <= $n; ++$i)
+> { 
+>     //Code thực thi
+> }
 >```
 
 
 - Quy tắc căn lè, thụt lề, vvv
 >``` 
->
+>   Tất cả đều cách nhau 1 tab
 >
 >```
 
 
-- Quy tắc đặt tên thư mục phần làm
+- Quy tắc viết tham số
 >``` 
->
->
+>   - Các tham số cách nhau bằng `,`
+>   - Ví dụ : function a($a, $b)
+>           : a(4, 5, 6)      
 >```
 
 
